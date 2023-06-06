@@ -101,7 +101,7 @@ header img {
     
     
     .header__button span{
-        background-image: url(/responsive-design/assets/icons/down-arrow.svg) ;
+        background-image: url(./assets/icons/down-arrow.svg) ;
         display:inline-block;
         margin-left: 10px;
         height: 8px;
@@ -112,7 +112,7 @@ header img {
         /* Imagen bitcoin*/
         display: block;
         position: relative;
-        background-image: url(/responsive-design/assets/img/Bitcoin.svg);
+        background-image: url(./assets/img/Bitcoin.svg);
         height: 200px;
         width: 200px;
         left: calc(50% - 100px);
@@ -209,14 +209,14 @@ header img {
 }
 
 .trend-up{
-    background-image: url(/responsive-design/assets/icons/trending-up.svg);
+    background-image: url(./assets/icons/trending-up.svg);
     width: 12px ;
     height: 12px;
     display: inline-block;
    
 }
 .trend-down{
-    background-image: url(/responsive-design/assets/icons/trending-down.svg);
+    background-image: url(./assets/icons/trending-down.svg);
     width: 12px ;
     height: 12px;
     display: inline-block;
@@ -311,7 +311,7 @@ header img {
 }
 .product__detail__batata-logo{ /**logo**/
     position: absolute;
-    background-image: url(/responsive-design/assets/icons/batata.svg);
+    background-image: url(./assets/icons/batata.svg);
     height:25px;
     width: 40px;
     top: -12px;
@@ -385,24 +385,24 @@ margin-top: -30px;
 }
 .clock{
 
-    background-image: url(/responsive-design/assets/icons/clock.svg);
+    background-image: url(./assets/icons/clock.svg);
 
 }
     
 .eye{
 
-    background-image: url(/responsive-design/assets/icons/eye.svg);
+    background-image: url(./assets/icons/eye.svg);
 
 } 
 .dollar-sign{
 
-    background-image: url(/responsive-design/assets/icons/dollar-sign.svg);
+    background-image: url(./assets/icons/dollar-sign.svg);
 
 }
     
 .check-cricle{
 
-    background-image: url(/responsive-design/assets/icons/check-circle.svg);
+    background-image: url(./assets/icons/check-circle.svg);
 
 }
 .product__card-body{
@@ -423,7 +423,7 @@ margin-top: -30px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(/responsive-design/assets/img/bitcoinbaby.jpg);
+    background-image: url(./assets/img/bitcoinbaby.jpg);
 
 }
 .bitcoin-girl h2{
@@ -525,7 +525,7 @@ margin-top: -30px;
     width: 20px;
     height: 20px;
     display: inline-block ;
-    background-image: url(/responsive-design/assets/icons/orange-right-arrow.svg);
+    background-image: url(./assets/icons/orange-right-arrow.svg);
     background-repeat: no-repeat;
     vertical-align: text-bottom;
     
