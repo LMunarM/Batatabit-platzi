@@ -1,0 +1,68 @@
+html{
+    font-size: 80%;
+}
+
+/****HEADER****/
+.main__h2p .p__style{
+ width: 600px; 
+}
+.main__h2p .h2__style{
+  width: 600px;
+}
+.header__title__container .header__button{
+    width: 400px;
+    left: calc(50% - 200px); 
+}
+
+/****TABLAS COMISIONES Y FLUCTUACIONES****/
+.tablas__container{
+     overflow-x: initial;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 25%;   
+}
+.crypto__fluctuation--table{
+    width: 320px;
+
+}
+.crypto__fluctuation--actualizacion{
+    width: 270px;
+}
+.crypto__comisiones--table{ 
+    width: 320px;}
+.crypto__comisiones--actualizacion{
+    width: 270px;
+}
+/****MAIN PRODUCT****/
+.product__detail-title{
+    width: 400px;
+    left: calc(50% - 200px);
+}
+.product__cards-container{
+    display: grid;
+    grid-template-columns: repeat( 2, 1fr);
+    height: 500px;
+    
+}
+.product__detail-card{
+    width: 90%;
+    max-width: 600px;
+    height: 200px;
+}
+
+ /***Bitcoin girl****/
+ .bitcoin-girl{
+    background-image: url(/responsive-design/assets/img/bitcoinbaby2x.jpg);
+ }   
+    
+
+/****PLANES****/
+.planes__container--card{
+    height: 300px;
+    width: 900px;
+    overflow-x: initial;
+}
+
+
